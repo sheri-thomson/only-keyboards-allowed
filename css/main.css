@@ -83,3 +83,7 @@ html {
   }
 
 }
+
+a:focus {
+  outline: 3px solid red;
+}
